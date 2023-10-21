@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+}
+
+.main {
+    flex: 70%;
+    padding: 20px;
+}
+
+.sidebar {
+    flex: 30%;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    height: 4rem;
+    width: 7rem;
+    background-color: lightgrey;
+}
+
+.mainlogo {
+    height: 15rem;
+    width: 25rem;
+}
+.nav {
+    
+    display: flex; 
+    gap: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: lightgoldenrodyellow;
+}

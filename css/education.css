@@ -1,0 +1,20 @@
+.article {
+    float: left;
+    width: 60%;
+    margin-right: 20px;
+}
+
+.figure {
+    float: left;
+    width: 30%;
+    padding-top: 3rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.overview {
+    color:red;
+    text-decoration: underline;
+}
